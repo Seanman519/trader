@@ -13,6 +13,6 @@ PAIRS = [
     # "EURCAD",
     "USDCAD"
 ]
-TIMEZONE = "Asia/Brunei"
+Africa/Johannesburg
 LOT_SIZE = 0.1
 TIMEFRAME = mt5.TIMEFRAME_H1
